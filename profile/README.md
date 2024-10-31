@@ -11,8 +11,8 @@
 ## I. 팀원 소개 (Team Members) 👥  
 | 고희주(BE) | 김보미(PM) | 김혜진(BE) | 장서원(FE) | 최강(BE) | 최윤영(FE) |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://github.com/HeejuKo.png" width="100"> | <img src="https://github.com/KIMBOMI.png" width="100"> | <img src="https://github.com/khyaejin.png" width="100"> | <img src="https://github.com/oculo0204.png" width="100"> | <img src="https://github.com/y2hscmtk.png" width="100"> | <img src="https://github.com/chldsbdud.png" width="100"> |  
-| [@HeejuKo](https://github.com/HeejuKo) | [@KIMBOMI](https://github.com/KIMBOMI) | [@khyaejin](https://github.com/khyaejin) | [@oculo0204](https://github.com/oculo0204) | [@y2hscmtk](https://github.com/y2hscmtk) | [@chldsbdud](https://github.com/chldsbdud) |  
+| <img src="https://github.com/HeejuKo.png" width="100"> | <img src="https://github.com/bomi03.png" width="100"> | <img src="https://github.com/khyaejin.png" width="100"> | <img src="https://github.com/oculo0204.png" width="100"> | <img src="https://github.com/y2hscmtk.png" width="100"> | <img src="https://github.com/chldsbdud.png" width="100"> |  
+| [@HeejuKo](https://github.com/HeejuKo) | [@bomi03](https://github.com/bomi03) | [@khyaejin](https://github.com/khyaejin) | [@oculo0204](https://github.com/oculo0204) | [@y2hscmtk](https://github.com/y2hscmtk) | [@chldsbdud](https://github.com/chldsbdud) |  
 
 <br><br>
 
