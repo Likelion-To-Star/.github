@@ -6,7 +6,7 @@
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
     <img src="https://img.shields.io/github/stars/Likelion-To-Star/backend?style=social" alt="GitHub stars">
     <img src="https://img.shields.io/github/license/Likelion-To-Star/backend" alt="GitHub license">
-</p>Likelion-To-Star
+</p>
 
 ## I. 팀원 소개 (Team Members) 👥  
 | 고희주(BE) | 김보미(PM) | 김혜진(BE) | 장서원(FE) | 최강(BE) | 최윤영(FE) |
