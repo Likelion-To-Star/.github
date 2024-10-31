@@ -1,4 +1,4 @@
-![Likelion-To-Star](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=Likelion-To-Star&fontSize=30&fontAlign=50)
+![Likelion-To-Star](https://capsule-render.vercel.app/api?type=waving&color=588beb&text=Likelion-To-Star&height=200&fontSize=60&fontAlign=50&fontColor=ffffff)
 
 ## 👋 Likelion-To-Star GitHub Organization 👋  
 **Likelion-To-Star**는 펫로스로 인한 상실감을 치유하고 소중한 추억을 되새길 수 있는 따뜻한 서비스입니다.
@@ -6,9 +6,7 @@
 <p align="center" style="display: flex; justify-content: center; gap: 10px;">
     <img src="https://img.shields.io/github/stars/Likelion-To-Star/backend?style=social" alt="GitHub stars">
     <img src="https://img.shields.io/github/license/Likelion-To-Star/backend" alt="GitHub license">
-</p>
-
----
+</p>Likelion-To-Star
 
 ## I. 팀원 소개 (Team Members) 👥  
 | 고희주(BE) | 김보미(PM) | 김혜진(BE) | 장서원(FE) | 최강(BE) | 최윤영(FE) |
@@ -16,7 +14,7 @@
 | <img src="https://github.com/HeejuKo.png" width="100"> | <img src="https://github.com/KIMBOMI.png" width="100"> | <img src="https://github.com/khyaejin.png" width="100"> | <img src="https://github.com/oculo0204.png" width="100"> | <img src="https://github.com/y2hscmtk.png" width="100"> | <img src="https://github.com/chldsbdud.png" width="100"> |  
 | [@HeejuKo](https://github.com/HeejuKo) | [@KIMBOMI](https://github.com/KIMBOMI) | [@khyaejin](https://github.com/khyaejin) | [@oculo0204](https://github.com/oculo0204) | [@y2hscmtk](https://github.com/y2hscmtk) | [@chldsbdud](https://github.com/chldsbdud) |  
 
----
+<br><br>
 
 ## II. 🐾 프로젝트 소개 (About Project) 🐾
 
@@ -31,7 +29,8 @@
 4. **게시물 등록 및 친구 추가🐶** :  
    사용자가 서로의 게시물을 공유하고 친구를 추가하며 더 깊은 교류를 할 수 있습니다. 
 
----
+<br><br>
+
 
 ## III. 📚 기술 스택 (Tech Stack) 📚  
 
@@ -51,22 +50,24 @@
 - 🔄 **Git Workflow**: 백엔드는 `dev` 브랜치를 기준으로 작업하며, 각 기능이나 버그 수정을 위해 **이슈 번호를 포함한 브랜치**를 생성하여 진행합니다. 완료된 작업은 `dev`로 PR을 생성하고, GitHub Actions가 자동으로 코드를 빌드하고 테스트합니다. 모든 테스트를 통과하면, `dev`에 머지되고 자동으로 재배포가 이루어집니다.
 
 
----
+<br><br>
+
 
 ## IV. 프로젝트 구조 (Project Structure) 🗂️  
 - **To-star-Frontend**: 사용자 상호작용 처리 (Frontend Interaction)  
 - **To-star-Backend**: API 및 데이터 흐름 관리 (API & Data Management)  
 
----
+<br><br>
+
 ## V. ERD 및 구조도 (ERD and Architecture) 📊  
 ### 1. ERD  
-<img src="https://github.com/user-attachments/assets/bb53a554-5608-4dee-bbb5-bd67f7766b18" width="70%" alt="ERD"/>
+<img src="https://github.com/user-attachments/assets/ebd915c5-2f05-4b9c-82f5-24657eb60377" width="70%" alt="ERD"/>
 
 ### 2. 시스템 구조도 (System Architecture)  
 
 ### 3. 기능 구조도 (Function Architecture)  
 
----
+<br><br>
 
 ## VI. 시작 가이드 (Getting Started) 🚀  
 1. **레포지토리 복제 (Clone the Repository)**  
@@ -87,7 +88,8 @@
    - Backend:  
      `./gradlew bootRun`
 
----
+<br><br>
+
 
 ## VII.⭐ README 소개 (About this README) ⭐  
 이 README는 **Likelion-To-Star** 프로젝트의 기술 스택, 구조, 시작 가이드를 간결하고 명확하게 설명합니다.
@@ -96,3 +98,7 @@
 ✨ Special Thanks ✨  
 Thanks to the **PND team** for their continuous support! 🚀  
 For more details, check out the [GitHub repository](https://github.com/PND-Gamjakkang).
+
+
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=588beb)
+
